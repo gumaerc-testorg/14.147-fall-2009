@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, recommended textbooks, goals and expectations,
+  requirements, grading, and the schedule of lecture topics and assignment dude dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1e29ec80-6d0d-b4d5-5050-296a201f7455
 ---
@@ -28,7 +33,7 @@ Milgrom, Paul. _Putting Auction Theory to Work_. Cambridge, United Kingdom: Camb
 
 Roth, Alvin, and Marilda Sotomayor. _Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis_. Cambridge, United Kingdom: Cambridge University Press, 1992. ISBN: 9780521437882.
 
-Additional books of interest are found in [readings]({{< baseurl >}}/pages/readings).
+Additional books of interest are found in {{% resource_link b31012b7-f1ae-9ae5-e2d9-e89f77249281 "readings" %}}.
 
 Course Organization
 -------------------
@@ -39,7 +44,7 @@ The aim of this course is to get students to the research frontier. We will spen
 
 ### Course Requirements
 
-The requirements for this course are to write three referee reports and a research paper. The referee reports are due on Ses #3, Ses #5, and Ses #7. The papers students may write referee reports on are labeled in the [readings]({{< baseurl >}}/pages/readings). If there is a paper that you think is relevant which is not on the list, please come see me.
+The requirements for this course are to write three referee reports and a research paper. The referee reports are due on Ses #3, Ses #5, and Ses #7. The papers students may write referee reports on are labeled in the {{% resource_link b31012b7-f1ae-9ae5-e2d9-e89f77249281 "readings" %}}. If there is a paper that you think is relevant which is not on the list, please come see me.
 
 A short progress report on the research paper is due one week after Ses #7, and the final paper is due at the end of the January Independent Activities Period (IAP), with no exceptions. The hope is that good papers form a foundation for dissertation work. I will meet with students in the middle of January to check the progress of the paper.
 
