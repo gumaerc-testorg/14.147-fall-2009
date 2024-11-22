@@ -77,7 +77,7 @@ Moulin, Hervé. "[Priority Rules and Other Asymmetric Rationing Methods](http://
 
 ### Readings for referee reports
 
-Fowlie, Meredith, and Jeffrey Perloff. "[Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00345)" Mimeograph, University of Michigan, 2009.
+Fowlie, Meredith, and Jeffrey Perloff. "[Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?](https://www.jstor.org/stable/43554852)" *The Journal of Law and Economics* 54(4). 2011. 
 
 Mansur, Erin T., and Matt White. "Market Organization and Efficiency in Electricity Markets." Mimeograph, University of Pennsylvania, 2007. ([PDF](https://pdfs.semanticscholar.org/8795/6f0ee20b13529213e4d637f9084f3e30ff06.pdf))
 
@@ -251,11 +251,11 @@ Stochastic matching mechanisms
 
 Abdulkadiroğlu, Atila, and Tayfun Sönmez. "[Random Serial Dictatorship and the Core from Random Endowments in House Allocation Problems](http://ideas.repec.org/a/ecm/emetrp/v66y1998i3p689-702.html)." *Econometrica* 66, no. 3 (May 1998): 689-702.
 
-Pathak, Parag. "Lotteries in Student Assignment: The Equivalence of Queueing and a Market-Based Approach." Mimeograph, Department of Economics, Massachusetts Institute of Technology, December 2008. ( [PDF](http://econ-www.mit.edu/files/3659))
+Pathak, Parag. "[Lotteries in Student Assignment: The Equivalence of Queueing and a Market-Based Approach](https://www.semanticscholar.org/paper/Lotteries-in-Student-Assignment-%3A-The-Equivalence-a-Pathak/4eab79028b3406fddfb6b8111d2fa0e18e489719)." 
 
 Bogomolnaia, Anna, and Hervé Moulin. "[A New Solution to the Random Assignment Problem](http://ideas.repec.org/a/eee/jetheo/v100y2001i2p295-328.html)." *Journal of Economic Theory* 100, no. 2 (October 2001): 295-328.
 
-Kojima, Fuhito, and Mihai Manea. "[Strategy-Proofness of the Probabilistic Serial Mechanism in Large Random Assignment Problems](http://www.vcasi.org/en/node/231)." Mimeograph, Department of Economics, Harvard University, September 2008.
+Kojima, Fuhito, and Mihai Manea. "[Strategy-Proofness of the Probabilistic Serial Mechanism in Large Random Assignment Problems](https://www.semanticscholar.org/paper/STRATEGY-PROOFNESS-OF-THE-PROBABILISTIC-SERIAL-IN-Kojima-Manea/74524fdff1bd1b250aaa47bd6804d0abe4d295fb)." Mimeograph, Department of Economics, Harvard University, September 2008.
 
 Kojima, Fuhito, and Yeon-Koo Che. "Asymptotic Equivalence of Probabilistic Serial and Random Priority Mechanisms." *Econometrica* (forthcoming). Also available as [Cowles Foundation Discussion Paper No. 1677](http://ideas.repec.org/p/cwl/cwldpp/1677.html), Yale University, October 2008.
 
@@ -333,7 +333,7 @@ Athey, Susan, and Philip Haile. "[Identification of Standard Auction Models](htt
 
 ———. "Nonparametric Approaches to Auctions." Chapter 60 in *Handbook of Econometrics*. Vol. 6A. Edited by James J. Heckman and Edward Leamer. Amsterdam, The Netherlands: North Holland, 2005, pp. 3847-3965. ISBN: 9780444506313.
 
-Wilson, Robert. "[Auctions of Shares](http://www.nccr-finrisk.uzh.ch/media/pdf/Wilson.pdf)." *Quarterly Journal of Economics* 93, no. 4 (November 1979): 675-689.
+Wilson, Robert. "[Auctions of Shares](https://academic.oup.com/qje/article-abstract/93/4/675/1932634)." *Quarterly Journal of Economics* 93, no. 4 (November 1979): 675-689.
 
 Kremer, Ilan, and Kjell Nyborg. "[Divisible Good Auctions: The Role of Allocation Rules](http://ideas.repec.org/a/rje/randje/v35y20041p147-159.html)." *Rand Journal of Economics* 35, no. 1 (Spring 2004): 147-159.
 
@@ -435,11 +435,11 @@ Simplicity, robustness, and limited rationality
 
 Roth, Alvin E., and Uriel G. Rothblum. "[Truncation Strategies in Matching Markets—In Search of Advice for Participants](http://ideas.repec.org/a/ecm/emetrp/v67y1999i1p21-44.html)." *Econometrica* 67, no. 1 (January 1999): 21-44.
 
-Pathak, Parag, and Tayfun Sönmez. "Comparing Mechanisms by their Vulnerability to Manipulation." Mimeograph, Department of Economics, Massachusetts Institute of Technology, January 2009. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.2497&rep=rep1&type=pdf))
+Pathak, Parag, and Tayfun Sönmez. "[School Admissions Reform in Chicago and England: Comparing Mechanisms by their Vulnerability to Manipulation](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.80)." *American Economic ReviewI 103* (1): 2013. 
 
 Dasgupta, Partha, and Eric Maskin. "[On the Robustness of Majority Rule](https://academic.oup.com/jeea/article-abstract/6/5/949/2295767)." *Journal of the European Economic Association* 6, no. 5 (September 2008): 949-973.
 
-Milgrom, Paul. "Simplified Mechanisms with an Application to Sponsored-Search Auctions." *Games and Economic Behavior* (forthcoming). Also available as [Stanford Institute for Economic Policy Research (SIEPR) Discussion Paper 08-013 (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.529.604&rep=rep1&type=pdf), December 2008.
+Milgrom, Paul. "[Simplified Mechanisms with an Application to Sponsored-Search Auctions.](https://siepr.stanford.edu/publications/working-paper/simplified-mechanisms-application-sponsored-search-auctions)" Stanford Institute for Economic Policy Research (SIEPR). 2008. 
 
 ———. "[Assignment Messages and Exchanges](http://ideas.repec.org/a/aea/aejmic/v1y2009i2p95-113.html)." *American Economic Journal: Microeconomics* 1, no. 2 (August 2009): 95-113.
 
@@ -499,7 +499,7 @@ Pesendorfer, Wolfgang, and Jeroen Swinkels. "[The Loser's Curse and Information 
 
 ———. "[Efficiency and Information Aggregation in Auctions](http://ideas.repec.org/a/aea/aecrev/v90y2000i3p499-525.html)." *American Economic Review* 90, no. 3 (June 2000): 499-525.
 
-Wilson, Robert B. "[A Bidding Model of Perfect Competition](http://www.nccr-finrisk.uzh.ch/media/pdf/Wilson_77.pdf)." *Review of Economic Studies* 44, no. 3 (October 1977): 511-518.
+Wilson, Robert B. "[A Bidding Model of Perfect Competition](https://academic.oup.com/restud/article-abstract/44/3/511/1546151?redirectedFrom=fulltext)." *Review of Economic Studies* 44, no. 3 (October 1977): 511-518.
 
 Milgrom, Paul. "[A Convergence Theorem for Competitive Bidding with Differential Information](http://ideas.repec.org/a/ecm/emetrp/v47y1979i3p679-88.html)." *Econometrica* 47, no. 3 (May 1979): 679-688.
 
